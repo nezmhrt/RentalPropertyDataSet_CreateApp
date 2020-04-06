@@ -1,0 +1,2 @@
+# RentalPropertyDataSet_CreateApp
+スーモ賃貸物件のデータセットを作成するソフト
